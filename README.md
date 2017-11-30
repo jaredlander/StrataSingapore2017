@@ -40,6 +40,17 @@ R and optionally RStudio with the following packages:
 -   `coefplot`
 -   `dygraphs`
 
+Using this Repo
+---------------
+
+Users shit `git clone` and then `git pull` and `git lfs pull`. Alternatively they can download the repo as a zip file from . If using the zip file, be sure to extract the zip and not just open files from within the zip.
+
+``` sh
+git clone git@github.com:jaredlander/StrataSingapore2017.git
+git pull
+git lfs pull
+```
+
 About the Instructor
 --------------------
 
