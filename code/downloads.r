@@ -1,6 +1,9 @@
 download.file('https://www.jaredlander.com/data/manhattan_Train.rds',
-              'data/manhattan_Train.rds')
+              'data/manhattan_Train.rds',
+              mode='wb')
 download.file('https://www.jaredlander.com/data/manhattan_Validate.rds',
-              'data/manhattan_Validate.rds')
+              'data/manhattan_Validate.rds',
+              mode='wb')
 download.file('https://www.jaredlander.com/data/manhattan_Test.rds',
-              'data/manhattan_Test.rds')
+              'data/manhattan_Test.rds',
+              mode='wb')
